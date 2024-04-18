@@ -1,0 +1,5 @@
+f=open("name.txt",mode='w')
+f.write('mounika\n')
+f.write('hari\n')
+f.write('yamini')
+f.close()

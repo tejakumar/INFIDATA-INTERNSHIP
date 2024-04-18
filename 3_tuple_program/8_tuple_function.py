@@ -1,0 +1,7 @@
+t1=(1,2,3,4,5,6,7)
+print("t1 is:",t1)
+print("sum length of t1 is:",sum(t1))
+print('length of t1 is:',len(t1))
+print("max element  t1:",max(t1))
+print("min element t1:",min(t1))
+print("sorted element t1 is:",sorted(t1))

@@ -1,0 +1,5 @@
+a, b, c, d = (2,3,4,0)
+print(a)
+print(b)
+print(c)
+print(d)

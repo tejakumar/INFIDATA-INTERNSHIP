@@ -1,0 +1,10 @@
+import streamlit as st
+st.title("my 1st page")
+st.header("this is my header")
+st.subheader("this is sub header")
+st.write("write function")
+st.info("using info function")
+st.success("using success function")
+st.warning("using warning function")
+st.error("using error function")
+st.markdown("using marker down")

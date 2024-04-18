@@ -1,0 +1,5 @@
+f=open("mynotes.txt",mode='r+')
+f.write('i love watching the movies')
+f.readlines()
+print("the")
+f.close()
